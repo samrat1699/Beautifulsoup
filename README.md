@@ -100,5 +100,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- Project Link: [https://github.com/your-username/your-project](https://github.com/your-samrat1699/beautifulsoup)
-- Contact: Your Name - [your-email@example.com](samratdev151@gmail.com)
+- Project Link: [https://github.com/your-samrat1699/beautifulsoup](https://github.com/your-samrat1699/beautifulsoup)
+- Contact: Your Name - [samratdev151@gmail.com](samratdev151@gmail.com)
